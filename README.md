@@ -6,4 +6,3 @@
 <br />
 
 ![Devyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedevyansh&theme=merko&show_icons=true&count_private=true&hide=stars)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevyansh&layout=compact)
