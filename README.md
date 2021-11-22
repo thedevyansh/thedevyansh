@@ -9,7 +9,11 @@ You can get in touch with me through [Email](mailto:schawla333333@gmail.com) and
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=thedevyansh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=merko"  display=block width=100% height=auto  alt="Devyansh's stats" ></td>
-    <td><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  display=block width=100% height=auto  alt="programmer with fire" ></td>
+    <td>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programmer with fire" >
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=thedevyansh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=merko" alt="Devyansh's stats" >
+    </td>
    </tr> 
 </table>
