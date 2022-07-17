@@ -1,8 +1,8 @@
 # Hi, I'm Devyansh.
 
-I'm an undergraduate at National Institute of Technology, Kurukshetra, pursuing my majors in Information Technology. I am a passionate developer who likes to solve real-world problems by thinking along the lines of clean and maintainable code. 
+I'm an undergraduate at National Institute of Technology, Kurukshetra, pursuing my major in Information Technology. As a passionate developer, I focus on driving innovative outcomes by getting involved in diverse communities with an emphasis on clean and maintainable code. My past internships and personal projects apply technologies including JavaScript, TypeScript, Python, Databases, etc., and are open-sourced at GitHub.
 
-I have been a Google Summer of Code 2021 student at Wikimedia Foundation and am the Open Source Lead of Google Developer Student Club at my college. I focus on driving innovative outcomes by getting involved in diverse communities.
+I like to read about almost anything, aspire to open-ended conversations and tinker with the latest technologies to find efficient ways to solve problems.
 <br><br>
 
 <table>
